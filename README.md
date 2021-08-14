@@ -2,7 +2,7 @@
 
 ### [Live Site](https://travelbia.netlify.app/)
 
-![TravelBia](https://ibb.co/mCMjcM4)
+![TravelBia](https://images.pexels.com/photos/8485133/pexels-photo-8485133.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260)
 
 ## Introduction
 
