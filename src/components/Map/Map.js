@@ -65,6 +65,7 @@ const Map = ({
                   />
                   <Rating size="small" value={Number(place.rating)} readOnly />
                 </Paper>
+                
               )}
             </div>
           ))}
